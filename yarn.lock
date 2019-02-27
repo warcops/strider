@@ -8289,9 +8289,9 @@ strider-runner-core@~2.0.0:
     mkdirp "~0.3.5"
     shell-quote "^1.6.0"
 
-strider-simple-runner@^1.0.0:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/strider-simple-runner/-/strider-simple-runner-1.0.2.tgz#2489df46d888fec1ad7ab8e4e366348153048fde"
+strider-simple-runner@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/strider-simple-runner/-/strider-simple-runner-1.1.0.tgz#e70ac96c91b137eeb4c0df2f3a6c010f1cde982f"
   dependencies:
     async "^1.5.2"
     debug "^2.2.0"
